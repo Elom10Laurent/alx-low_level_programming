@@ -16,7 +16,7 @@ void puts2(char *str);
 
 void puts_half(char *str);
 
-void puts_array(char *a, int n);
+void print_array(int *a, int n);
 
 char *_strcpy(char *des, char *src);
 
