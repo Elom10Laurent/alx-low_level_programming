@@ -1,10 +1,9 @@
 #include <stdio.h>
-#include <stdlib.h>
 /**
- * main - print number;
- * @argc: parametre that is the number of argv parameter
- * @argv: parameter that give the parameter 
- *
+ * main - prints number;
+ * @argc: input
+ * @argv: input
+ * Return: out 0 'Success'
  */
 
 int main(int argc, char *argv[])
