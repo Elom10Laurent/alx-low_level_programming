@@ -10,7 +10,7 @@ int main(int argc, char *argv[])
 {
         if (argc != 3)
         {
-                printf("Error: two valid inputs are required\n");
+                printf("Error\n");
                 return (1);
         }
 	else
@@ -18,7 +18,7 @@ int main(int argc, char *argv[])
 		int num1 = atoi(argv[1]);
 		int num2 = atoi(argv[2]);
 		int result = num1 * num2;
-                printf("The result is  %d \n", result);
+                printf("%d \n", result);
                 return (0);
         }
 }
