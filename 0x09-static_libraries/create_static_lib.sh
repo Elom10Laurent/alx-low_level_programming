@@ -4,9 +4,10 @@
 gcc -c *.c
 
 # Crée la bibliothèque statique avec ar
-ar rcs libmy.a *.o
+ar rcs liball.a *.o
 
 # Crée l'index
-ranlib libmy.a
+ranlib liball.a
 
 echo "Bibliothèque statique liball.a créée avec succès."
+
