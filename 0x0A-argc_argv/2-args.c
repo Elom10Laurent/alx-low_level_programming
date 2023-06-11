@@ -1,11 +1,11 @@
 #include <stdio.h>
 /**
- * main - prints any argument to give him;
+ * main - prints any argument it receives;
  * @argc: input
  * @argv: input
  * Return: 0 Success
  */
-int main( int argc, char *argv[])
+int main(int argc, char *argv[])
 {
 	int i;
 
