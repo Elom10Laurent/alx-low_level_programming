@@ -9,6 +9,7 @@
 int main(int argc, char *argv[])
 {
 	int i, res = 1;
+
         if (argc != 3)
         {
                 printf("Error\n");
@@ -24,3 +25,4 @@ int main(int argc, char *argv[])
         }
 	return (0);
 }
+
