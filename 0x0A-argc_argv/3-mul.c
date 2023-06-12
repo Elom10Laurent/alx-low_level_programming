@@ -2,8 +2,8 @@
 #include <stdlib.h>
 /**
  * main - prints resultat of mutiplication;
- * @main: input
- * @main: input
+ * @argc: input
+ * @argv: input
  * Return: 0 Success
  */
 int main(int argc, char *argv[])
