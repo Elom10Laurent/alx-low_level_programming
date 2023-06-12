@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 /**
- * main - prints resultat of mutiplication;
+ * main - prints resultat of mutiplication
  * @argc: input
  * @argv: input
  * Return: 0 Success
