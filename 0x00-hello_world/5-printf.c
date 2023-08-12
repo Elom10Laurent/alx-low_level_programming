@@ -1,8 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - A program that print char with printf function
+ * main - A program that print line  with printf function
  *
+ * void
  * return: Always 0 (Success)
  */
 int main(void)
