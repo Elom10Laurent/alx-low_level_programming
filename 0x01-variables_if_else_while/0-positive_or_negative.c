@@ -5,7 +5,7 @@
  * main - Prints randoms number negative or positive
  *
  * n : variable
- * return: Success
+ * return: Always 0 Success
  */
 int main(void)
 {
