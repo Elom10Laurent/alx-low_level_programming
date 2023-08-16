@@ -4,7 +4,7 @@
  * _islower - verify lowercase character
  *
  * c: parameter
- * Return: 1 if c is lowwercase adn O if  otherwise
+ * Return: 1 if c is lowercase adn O if  otherwise
  */
 int _islower(int c)
 {
