@@ -5,7 +5,7 @@
  *
  * @dest: Parameter
  * @src: Parameter
- * return: Success
+ * Return: dest
  */
 
 char *_strcpy(char *dest, char *src)
